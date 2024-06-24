@@ -2,27 +2,19 @@
 
 ## About Us
 
-Velox is a cutting-edge SaaS application designed to [brief description of the application's primary function or value proposition]. Our mission is to [mission or vision of your organization related to the SaaS application].
+Velox is a cutting-edge SaaS billing application designed to simplify and streamline the billing process for businesses of all sizes. Our mission is to provide an efficient and user-friendly platform that takes the hassle out of managing subscriptions, invoicing, and payments.
 
-## Getting Involved
+## Our Public Modules
 
-We welcome contributions from everyone. To get started:
+While the core Velox application is not open to the public, we do offer several public modules that can be utilized and integrated into your own systems:
 
-1. **Fork** the repository you want to contribute to.
-2. **Clone** the repository to your local machine.
-3. **Create a new branch** for your feature or bugfix.
-4. **Make your changes** and commit them with clear messages.
-5. **Push** your changes to your fork.
-6. **Open a Pull Request** against the `main` branch of the repository.
-
-Please read our [Contribution Guidelines](https://discord.com/your-discord-channel) and [Code of Conduct](link-to-code-of-conduct) before you start contributing.
+Please check out these modules for additional functionalities and enhancements that can support your billing processes.
 
 ## Communication
 
 We use the following platforms for communication and collaboration:
 
-- **Issues:** For bug reports, feature requests, and other discussions.
-- **Pull Requests:** For submitting contributions.
+- **Issues:** For bug reports, feature requests, and other discussions related to our public modules.
 - **Discussions:** For general conversations and Q&A.
 - **Discord:** Join our Discord community for real-time discussions and support. [Join us on Discord](https://discord.com/your-discord-channel)
 
@@ -30,7 +22,7 @@ You can also reach us at [contact email] for any inquiries.
 
 ## License
 
-All our projects are licensed under the Velox SaaS License. See the [LICENSE](link-to-license) file in each repository for more details.
+All our public modules are licensed under the Velox SaaS License.
 
 ## Support Us
 
@@ -45,10 +37,7 @@ Thank you for being part of the Velox community!
 ---
 
 <p align="center">
-  <img src="https://assets.veloxbill.net/asset/logo.png" alt="Velox Logo" width="200">
+  <img src="https://assets.veloxbill.net/asset/logo.webp" alt="Velox Logo" width="200">
 </p>
 
 ---
-
-[![GitHub followers](https://img.shields.io/github/followers/your-org?label=Follow&style=social)](https://github.com/your-org)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-org?style=social)](https://twitter.com/your-org)
