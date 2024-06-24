@@ -1,27 +1,8 @@
-# Welcome to [Organization Name]!
+# Welcome to Velox!
 
 ## About Us
 
-[Organization Name] is a [brief description of your organization]. We are dedicated to [mission or vision of your organization].
-
-## Our Projects
-
-We work on a variety of projects aimed at [goals or objectives of the projects]. Here are some of our key projects:
-
-### [Project 1 Name]
-- **Description:** [Brief description of the project]
-- **Repository:** [Link to the repository]
-- **Documentation:** [Link to the documentation]
-
-### [Project 2 Name]
-- **Description:** [Brief description of the project]
-- **Repository:** [Link to the repository]
-- **Documentation:** [Link to the documentation]
-
-### [Project 3 Name]
-- **Description:** [Brief description of the project]
-- **Repository:** [Link to the repository]
-- **Documentation:** [Link to the documentation]
+Velox is a cutting-edge SaaS application designed to [brief description of the application's primary function or value proposition]. Our mission is to [mission or vision of your organization related to the SaaS application].
 
 ## Getting Involved
 
@@ -34,7 +15,7 @@ We welcome contributions from everyone. To get started:
 5. **Push** your changes to your fork.
 6. **Open a Pull Request** against the `main` branch of the repository.
 
-Please read our [Contribution Guidelines](link-to-contribution-guidelines) and [Code of Conduct](link-to-code-of-conduct) before you start contributing.
+Please read our [Contribution Guidelines](https://discord.com/your-discord-channel) and [Code of Conduct](link-to-code-of-conduct) before you start contributing.
 
 ## Communication
 
@@ -43,12 +24,13 @@ We use the following platforms for communication and collaboration:
 - **Issues:** For bug reports, feature requests, and other discussions.
 - **Pull Requests:** For submitting contributions.
 - **Discussions:** For general conversations and Q&A.
+- **Discord:** Join our Discord community for real-time discussions and support. [Join us on Discord](https://discord.com/your-discord-channel)
 
 You can also reach us at [contact email] for any inquiries.
 
 ## License
 
-All our projects are licensed under the [License Name]. See the [LICENSE](link-to-license) file in each repository for more details.
+All our projects are licensed under the Velox SaaS License. See the [LICENSE](link-to-license) file in each repository for more details.
 
 ## Support Us
 
@@ -58,12 +40,12 @@ If you find our work valuable, consider supporting us:
 - **Share** our projects with your network.
 - **Donate** to our organization via [donation link].
 
-Thank you for being part of the [Organization Name] community!
+Thank you for being part of the Velox community!
 
 ---
 
 <p align="center">
-  <img src="path-to-logo-image" alt="[Organization Name] Logo" width="200">
+  <img src="https://assets.veloxbill.net/asset/logo.png" alt="Velox Logo" width="200">
 </p>
 
 ---
