@@ -37,7 +37,7 @@ Thank you for being part of the Velox community!
 ---
 
 <p align="center">
-  <img src="https://assets.veloxbill.net/asset/logo.webp" alt="Velox Logo" width="200">
+  <img src="https://assets.veloxbill.net/a/Eh0WEU.png" alt="Velox Logo" width="200">
 </p>
 
 ---
